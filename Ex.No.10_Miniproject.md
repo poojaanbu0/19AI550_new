@@ -1,4 +1,5 @@
-# Ex.No: 10   Implementation of 2D/3D game - Escape from the Falling Object Game                                                                          
+# Ex.No: 10   Implementation of 2D/3D game - Escape from the Falling Object Game                     
+### DATE: 16.05.2025                                       
 ### REGISTER NUMBER : 212222240072
 ### AIM: 
 To develop a Escape from the Falling Object Game in Unity
