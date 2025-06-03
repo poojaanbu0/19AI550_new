@@ -17,7 +17,7 @@ To develop a Escape from the Falling Object Game in Unity
 10. If the falling object collides with the ground, destroy the player object.
 ```  
 ### Program:
-FallingObject.cs
+#### FallingObject.cs
 ```
 using UnityEngine;
 
@@ -41,7 +41,7 @@ public class FallingObject : MonoBehaviour
 
 ```
 
-PlayerController.cs
+#### PlayerController.cs
 ```
 
 using UnityEngine;
